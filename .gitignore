@@ -1,6 +1,5 @@
 *.pkz
 *.bin
-CodeAnalysis/
 __pycache__/
 *.pyc
 data-bin/
