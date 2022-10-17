@@ -1,0 +1,42 @@
+{
+  "add_bos_token": false,
+  "add_prefix_space": false,
+  "bos_token": {
+    "__type": "AddedToken",
+    "content": "<s>",
+    "lstrip": false,
+    "normalized": true,
+    "rstrip": false,
+    "single_word": false
+  },
+  "do_lower_case": false,
+  "eos_token": {
+    "__type": "AddedToken",
+    "content": "</s>",
+    "lstrip": false,
+    "normalized": true,
+    "rstrip": false,
+    "single_word": false
+  },
+  "errors": "replace",
+  "full_tokenizer_file": null,
+  "name_or_path": "microsoft/CodeGPT-small-java-adaptedGPT2",
+  "pad_token": {
+    "__type": "AddedToken",
+    "content": "<pad>",
+    "lstrip": false,
+    "normalized": true,
+    "rstrip": false,
+    "single_word": false
+  },
+  "special_tokens_map_file": null,
+  "tokenizer_class": "GPT2Tokenizer",
+  "unk_token": {
+    "__type": "AddedToken",
+    "content": "<|UNKNOWN|>",
+    "lstrip": false,
+    "normalized": true,
+    "rstrip": false,
+    "single_word": false
+  }
+}

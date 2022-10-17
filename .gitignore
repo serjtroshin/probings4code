@@ -1,9 +1,10 @@
 *.pkz
 *.bin
 CodeAnalysis/
-src/
 __pycache__/
-src/models/
+*.pyc
+data-bin/
+*.pt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

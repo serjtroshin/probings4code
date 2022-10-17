@@ -1,5 +1,5 @@
 # Probing Pretrained Models of Source Code
-This project contains source code to replicate the experiments from the [Probing Pretrained Models of Source Code](https://arxiv.org/abs/2202.08975) accepted to NAACL 2022 Black Box NLP Workshop.
+This project contains source code to replicate the experiments from the [Probing Pretrained Models of Source Code](https://arxiv.org/abs/2202.08975) accepted to [EMNLP 2022 Black Box NLP Workshop](https://blackboxnlp.github.io).
 
 ## Overview
 The code structure is as follows:
