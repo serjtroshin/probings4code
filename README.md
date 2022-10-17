@@ -16,7 +16,7 @@ The script was run on `CentOS Linux 7`, `Python 3.9.2`.
 Create a conda environment for the project and install requirements:
 - `conda create -n probings4code python=3.9.12`
 - `conda activate probings4code`
-- `conda install pytorch==1.11.0 torchvision==0.12.0 udatoolkit=11.6 numpy=1.22.3 -c pytorch -y`
+- `conda install pytorch==1.11.0 torchvision==0.12.0 cudatoolkit=11.6 numpy=1.22.3 -c pytorch -y`
 - `pip install -r requirements.txt`
 
 Install tree-sitter parser for `python` and `java` by running 
