@@ -11,7 +11,10 @@ The code structure is as follows:
     - `probings` utils for probings
 - `CodeAnalysis`: directory with processed data and results
 
-## Environment
+## Repository Environment
+- `git clone https://github.com/serjtroshin/probings4code`
+- `git lfs fetch --all`
+  
 The script was run on `CentOS Linux 7`, `Python 3.9.2`.
 Create a conda environment for the project and install requirements:
 - `conda create -n probings4code python=3.9.12`
