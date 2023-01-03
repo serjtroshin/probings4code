@@ -13,7 +13,9 @@ The code structure is as follows:
 
 ## Repository Environment
 - `git clone https://github.com/serjtroshin/probings4code`
-- `git lfs fetch --all`
+- `cd probings4code`
+- go to [link](https://mega.nz/file/3FtkQa6C#y-TLNFNfkrLvC7sY9QeCqrnIZo7FugMEHqPrwtKCJRU) and download the data
+- `unzip -l CodeAnalysis.zip`
   
 The script was run on `CentOS Linux 7`, `Python 3.9.2`.
 Create a conda environment for the project and install requirements:
